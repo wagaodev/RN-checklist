@@ -1,13 +1,13 @@
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 
 export type RootStackParamList = {
-  Onboarding: undefined;
   Home: undefined;
+  Login: { name: string };
+  Register: { name: string };
 };
 
-export type TOnboarding = NativeStackScreenProps<
-  RootStackParamList,
-  'Onboarding'
->;
-
 export type THome = NativeStackScreenProps<RootStackParamList, 'Home'>;
+
+export type TLogin = NativeStackScreenProps<RootStackParamList, 'Login'>;
+
+export type TRegister = NativeStackScreenProps<RootStackParamList, 'Register'>;

@@ -8,7 +8,7 @@ import {
 import { Icon } from './styles';
 
 import { theme } from '../global';
-import { Home, Onboarding } from '../views';
+import { Home, Login, Register } from '../views';
 import { RootStackParamList } from './types';
 
 const { Navigator, Screen } = createNativeStackNavigator<RootStackParamList>();
@@ -34,17 +34,24 @@ const options: NativeStackNavigationOptions = {
 
 const routes = () => {
   return (
-    <Navigator initialRouteName="Onboarding" screenOptions={options}>
+    <Navigator initialRouteName="Login" screenOptions={options}>
       <Screen
-        name="Onboarding"
-        component={Onboarding}
+        name="Home"
+        component={Home}
         options={{
           headerShown: false,
         }}
       />
       <Screen
-        name="Home"
-        component={Home}
+        name="Login"
+        component={Login}
+        options={{
+          headerShown: false,
+        }}
+      />
+      <Screen
+        name="Register"
+        component={Register}
         options={{
           headerShown: false,
         }}
