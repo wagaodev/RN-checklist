@@ -1,4 +1,4 @@
-package com.wcfx.neon;
+package com.wcfx.awesome;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "neon";
+    return "awesome_project";
   }
 }
