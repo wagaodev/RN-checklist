@@ -8,7 +8,7 @@ import {
 import { Icon } from './styles';
 
 import { theme } from '../global';
-import { Home, Onboarding } from '../modules';
+import { Home, Onboarding } from '../views';
 import { RootStackParamList } from './types';
 
 const { Navigator, Screen } = createNativeStackNavigator<RootStackParamList>();

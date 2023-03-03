@@ -42,24 +42,24 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = "awesomeproject";
+			remoteInfo = awesomeproject;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* awesomeprojectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "awesomeprojectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* awesomeprojectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = awesomeprojectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* awesomeprojectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "awesomeprojectTests.m"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* awesomeprojectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = awesomeprojectTests.m; sourceTree = "<group>"; };
 		079428F65EE24E5FA2B03EBC /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = ../assets/icons/Entypo.ttf; sourceTree = "<group>"; };
 		08B1941A4A2F4943870A6BEC /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Medium.ttf"; path = "../assets/fonts/Montserrat-Medium.ttf"; sourceTree = "<group>"; };
 		0C2AA51EE0DA4A7C85F7C80B /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = ../assets/icons/Fontisto.ttf; sourceTree = "<group>"; };
 		12BE70CED98F4DE39A71E91B /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* awesomeproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "awesomeproject.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "awesomeproject/AppDelegate.h"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* awesomeproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = awesomeproject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = awesomeproject/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = awesomeproject/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "awesomeproject/Images.xcassets"; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "awesomeproject/Info.plist"; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "awesomeproject/main.m"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = awesomeproject/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = awesomeproject/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = awesomeproject/main.m; sourceTree = "<group>"; };
 		1D0AE47A65C8663E3B452821 /* Pods-awesomeproject-awesomeprojectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-awesomeproject-awesomeprojectTests.release.xcconfig"; path = "Target Support Files/Pods-awesomeproject-awesomeprojectTests/Pods-awesomeproject-awesomeprojectTests.release.xcconfig"; sourceTree = "<group>"; };
 		1EE90B4EEAFE45A884401045 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		33C8F5270400457C8134507E /* Sk-Modernist-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Sk-Modernist-Bold.otf"; path = "../assets/fonts/Sk-Modernist-Bold.otf"; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 		6423831EA8574132BED9D8CC /* libPods-awesomeproject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-awesomeproject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C97AB639B58BBB4B15BBE30 /* Pods-awesomeproject-awesomeprojectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-awesomeproject-awesomeprojectTests.debug.xcconfig"; path = "Target Support Files/Pods-awesomeproject-awesomeprojectTests/Pods-awesomeproject-awesomeprojectTests.debug.xcconfig"; sourceTree = "<group>"; };
 		75824484C4DF45EF9ECD8F19 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "awesomeproject/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = awesomeproject/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84BDACA2A8D74944937F0896 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = ../assets/icons/Ionicons.ttf; sourceTree = "<group>"; };
 		8C45261A631A4D3CB79945E7 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		8EE7E91DDDAE467988D8220D /* Sk-Modernist-Mono.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Sk-Modernist-Mono.otf"; path = "../assets/fonts/Sk-Modernist-Mono.otf"; sourceTree = "<group>"; };
@@ -128,7 +128,7 @@
 				00E356F21AD99517003FC87E /* awesomeprojectTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = "awesomeprojectTests";
+			path = awesomeprojectTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -149,7 +149,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = "awesomeproject";
+			name = awesomeproject;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -288,8 +288,8 @@
 			);
 			dependencies = (
 			);
-			name = "awesomeproject";
-			productName = "awesomeproject";
+			name = awesomeproject;
+			productName = awesomeproject;
 			productReference = 13B07F961A680F5B00A75B9A /* awesomeproject.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -554,7 +554,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "awesomeprojectTests/Info.plist";
+				INFOPLIST_FILE = awesomeprojectTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -566,7 +566,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wcfx.awesome";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wcfx.awesome;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/awesomeproject.app/awesomeproject";
 			};
@@ -578,7 +578,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = "awesomeprojectTests/Info.plist";
+				INFOPLIST_FILE = awesomeprojectTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -590,7 +590,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wcfx.awesome";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wcfx.awesome;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/awesomeproject.app/awesomeproject";
 			};
@@ -604,8 +604,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = "awesomeproject/Info.plist";
-             INFOPLIST_KEY_CFBundleDisplayName = "awesome_project";
+				INFOPLIST_FILE = awesomeproject/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = awesomeproject;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -616,8 +615,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wcfx.awesome";
-				PRODUCT_NAME = "awesomeproject";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wcfx.awesome;
+				PRODUCT_NAME = awesomeproject;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -631,8 +630,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = "awesomeproject/Info.plist";
-             INFOPLIST_KEY_CFBundleDisplayName = "awesome_project";
+				INFOPLIST_FILE = awesomeproject/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = awesomeproject;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -643,8 +641,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wcfx.awesome";
-				PRODUCT_NAME = "awesomeproject";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wcfx.awesome;
+				PRODUCT_NAME = awesomeproject;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
